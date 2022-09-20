@@ -1,0 +1,32 @@
+{
+	"core:dendroidSoldier":
+	{
+		"graphics": { "animation" : "cr205.def" }
+	},
+	"core:pitLord":
+	{
+		"graphics": { "animation" : "cr217.def" }
+	},
+	"core:devil":
+	{
+		"graphics":
+		{
+			"animation": "cr337.def",
+			"animationTime":
+			{
+				"walk" : 2,
+				"attack" : 1,
+				"idle" : 10,
+				"flight" : 1
+			}
+		}
+	},
+	"core:orc":
+	{
+		"graphics": { "animation" : "corc1.def" }
+	},
+	"core:orcChieftain" :
+	{
+		"graphics": { "animation" : "corc2.def" }
+	}
+}

@@ -1,0 +1,10 @@
+{
+    "basepath" : "frames/",
+	"images" :
+	[
+		{ "frame" : 14, "file" : "itpstrg1"},
+		{ "frame" : 15, "file" : "itpstrg2"},
+		{ "frame" : 32, "file" : "itpstrg3"},
+		{ "frame" : 33, "file" : "itpstrg4"}
+	]
+}

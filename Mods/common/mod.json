@@ -1,0 +1,35 @@
+{
+	"name": "Common",
+	"description": "Common fixes for towns and creatures.",
+	"licenseName": "Creative Commons Attribution-ShareAlike",
+	"licenseURL": "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"modType": "Graphical",
+	"author": "q4a",
+	"contact": "https://github.com/q4a/mac-demo-fix-missing",
+	"version": "1.0",
+	"factions":
+	[
+		"config/factions.json"
+	],
+	"filesystem":
+	{
+		"":
+		[
+			{"type" : "map", "path" : "/config/LotRDMod-lord.json"},
+			{"type" : "map", "path" : "/config/ThirdUpgradeMod-AmeCre.json"}
+		],
+		"CONFIG/" :
+		[
+			{"type" : "dir", "path" : "/config"}
+		],
+		"MOD/":
+		[
+			{"type" : "lod", "path" : "/mod/hmmlord.pac"}
+		],
+		"SPRITES/":
+		[
+			{"type" : "dir", "path" : "/sprites"},
+			{"type" : "lod", "path" : "/sprites/AmeCre.pac"}
+		]
+	}
+}

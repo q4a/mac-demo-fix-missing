@@ -1,0 +1,30 @@
+{
+	"core:rampart":
+	{
+		"town":
+		{
+			"hallBackground": "tpthbkcs.bmp"
+		}
+	},
+	"core:tower":
+	{
+		"town":
+		{
+			"hallBackground": "tpthbkdg.bmp"
+		}
+	},
+	"core:inferno":
+	{
+		"town":
+		{
+			"hallBackground": "tpthbkdg.bmp"
+		}
+	},
+	"core:stronghold":
+	{
+		"town":
+		{
+			"hallBackground": "tpthbkdg.bmp"
+		}
+	}
+}

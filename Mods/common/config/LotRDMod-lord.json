@@ -1,0 +1,47 @@
+{
+	// Missing Rampart creatures
+	// Unicorn
+	"sprites/CUNICO.def": "mod/Cunico.def",
+	// Green Dragon - alt cr322.def
+	"sprites/CGDRAG.def": "mod/CGDRAG.DEF",
+
+	// Missing Tower creatures
+	// Iron Golem
+	"sprites/CIGOLE.def": "mod/Cigole.def",
+	// Naga Queen
+	"sprites/CNAGAG.def": "mod/Cnagag.def",
+
+	// Missing Inferno creatures
+	// Cerberus
+	"sprites/CCERBU.def": "mod/Ccerbu.def",
+	// Demon
+	"sprites/COHDEM.def": "mod/zm177npc.def",
+
+	// Missing Stronghold creatures
+	// Behemoth
+	"sprites/CYBEHE.def": "mod/CYBEHE.def",
+	// Ancient Behemoth
+	"sprites/CABEHE.def": "mod/CABEHE.def",
+
+	// Missing Fortress creatures
+	// Basilisk
+	"sprites/CBASIL.def": "mod/Cgbasi.def",
+	// Wyvern
+	"sprites/CWYVER.def": "mod/Cwyvmn.def",
+	// Hydra
+	"sprites/CHYDRA.def": "mod/Chydra.def",
+	// Chaos Hydra
+	"sprites/cchydr.def": "mod/Cchydr.def",
+
+	// Missing Conflux creatures
+	// Ice Elemental - alt cr248.def
+	"sprites/Cicee.def": "mod/Cicee.def",
+
+	// Missing Neutral creatures
+	// Azure Dragon
+	"sprites/CaDrgn.def": "mod/zm151z.def",
+	// Rust Dragon
+	"sprites/CRsDgn.def": "mod/Crsdgn.def",
+	// Sharpshooter
+	"sprites/Csharp.def": "mod/Csharp.def"
+}

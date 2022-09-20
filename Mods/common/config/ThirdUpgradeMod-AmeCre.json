@@ -1,0 +1,79 @@
+{
+	// Missing Rampart creatures
+	// Grand Elf
+	"sprites/CGRELF.def": "sprites/cr256.def",
+	// Silver Pegasus
+	"sprites/CAPEGS.def": "sprites/cr204.def",
+	// Dendroid Guard
+	"sprites/CTREE.def": "sprites/cbtree.def",
+	// War Unicorn
+	"sprites/CWUNIC.def": "sprites/cr206.def",
+	// Gold Dragon
+	"sprites/CDDRAG.def": "sprites/cr323.def",
+
+	// Missing Tower creatures
+	// Mage
+	"sprites/CMAGE.def": "sprites/CMAGE.def",
+	// Archmage
+	"sprites/CAMAGE.def": "sprites/cr257.def",
+	// Genie
+	"sprites/CGENIE.def": "sprites/cr218.def",
+	// Master Genie
+	"sprites/CSULTA.def": "sprites/cr210.def",
+	// Naga Sentinel
+	"sprites/CNAGA.def": "sprites/cr211.def",
+	// Giant
+	"sprites/CLTITA.def": "sprites/zm152z.def",
+	// Titan
+	"sprites/CGTITA.def": "sprites/CR212.def",
+
+	// Missing Inferno creatures
+	// Horned Demon
+	"sprites/CTHDEM.def": "sprites/cr216.def",
+	// Pit Fiend
+	"sprites/CPFIEN.def": "sprites/CPFOE.def",
+	// Arch Devil
+	"sprites/CADEVL.def": "sprites/cr219.def",
+
+	// Missing Stronghold creatures
+	// Ogre
+	"sprites/COGRE.def": "sprites/cr304.def",
+	// Ogre Mage - alt cr235.def
+	"sprites/COGMAG.def": "sprites/cr305.def",
+	// Roc
+	"sprites/CROC.def": "sprites/cr294.def",
+	// Thunderbird
+	"sprites/CTBIRD.def": "sprites/cr236.def",
+
+	// Missing Fortress creatures
+	// Dragon Fly / Fire Dragon Fly
+	"sprites/CDRFIR.def": "sprites/cr241.def",
+	// Greater Basilisk
+	"sprites/CGBASI.def": "sprites/cr242.def",
+	// Gorgon
+	"sprites/Ccgorg.def": "sprites/cr244.def",
+	// Mighty Gorgon - zm172n.def
+	"sprites/Cbgog.def": "sprites/cr244.def",
+	// Wyvern Monarch
+	"sprites/CWYVMN.def": "sprites/cr243.def",
+
+	// Missing Conflux creatures
+	// Energy Elemental
+	"sprites/Cnrg.def": "sprites/cr249.def",
+	// Magic Elemental
+	"sprites/Cmagel.def": "sprites/cr251.def",
+
+	// Missing Neutral creatures
+	// Gold Golem
+	"sprites/CGGOLE.def": "sprites/cr324.def",
+	// Diamond Golem
+	"sprites/CDGOLE.def": "sprites/CDGOLE.def",
+	// Crystal Dragon
+	"sprites/Ccdrgn.def": "sprites/cr267.def",
+	// Faerie Dragon
+	"sprites/Cfdrgn.def": "sprites/cr258.def",
+	// Enchanter
+	"sprites/Cench.def": "sprites/cr259.def",
+	// Troll
+	"sprites/Ctroll.def": "sprites/cr276.def"
+}
