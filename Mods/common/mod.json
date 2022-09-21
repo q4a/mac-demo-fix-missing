@@ -9,11 +9,11 @@
 	"version": "1.0",
 	"factions":
 	[
-		"config/factions.json"
+		"config/factions-fix.json"
 	],
 	"creatures":
 	[
-		"config/creatures.json"
+		"config/creatures-fix.json"
 	],
 	"filesystem":
 	{
