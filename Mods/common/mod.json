@@ -11,6 +11,10 @@
 	[
 		"config/factions.json"
 	],
+	"creatures":
+	[
+		"config/creatures.json"
+	],
 	"filesystem":
 	{
 		"":
