@@ -19,6 +19,7 @@
 	{
 		"":
 		[
+			{"type" : "map", "path" : "/config/core.json"},
 			{"type" : "map", "path" : "/config/LotRDMod-lord.json"},
 			{"type" : "map", "path" : "/config/ThirdUpgradeMod-AmeCre.json"}
 		],
